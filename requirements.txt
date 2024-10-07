@@ -5,4 +5,3 @@
 azure-functions
 azurefunctions-extensions-http-fastapi
 openai
-streamlit
